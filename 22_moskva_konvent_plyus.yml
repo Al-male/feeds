@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<yml_catalog date="2025-02-10T09:33:52.784Z">
+  <shop>
+    <name>iStudio</name>
+    <company>iStudio - продажа техники Apple</company>
+    <url>https://istudio-msk.ru/</url>
+    <categories>
+      <category id="1405">iPhone 16 Скидка -40% до 10.02!</category>
+      <category id="1406">iPhone 16 Pro Скидка -40% до 10.02!</category>
+      <category id="1407">iPhone 16 Pro Max Скидка -40% до 10.02!</category>
+    </categories>
+    <offers>
+      <offer id="18179" available="true">
+        <name>-40% на "iPhone 16 512Gb White Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 512Gb White Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>94299</price>
+        <oldprice>157165</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-512Gb-Yellow-Dual-Sim-6d207f9d.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18209" available="true">
+        <name>-40% на "iPhone 16 512Gb White eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 512Gb White eSim. Акция действует до 10.02. Успевай!</description>
+        <price>94299</price>
+        <oldprice>157165</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-512Gb-Yellow-eSim-0f37b181.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18175" available="true">
+        <name>-40% на "iPhone 16 512Gb Black Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 512Gb Black Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>89999</price>
+        <oldprice>149999</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-512Gb-Black-Dual-Sim-536adb80.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18205" available="true">
+        <name>-40% на "iPhone 16 512Gb Black eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 512Gb Black eSim. Акция действует до 10.02. Успевай!</description>
+        <price>89999</price>
+        <oldprice>149999</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-512Gb-Black-eSim-faccbb04.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18207" available="true">
+        <name>-40% на "iPhone 16 512Gb Teal eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 512Gb Teal eSim. Акция действует до 10.02. Успевай!</description>
+        <price>92199</price>
+        <oldprice>153665</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-512Gb-Green-eSim-054334c5.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18193" available="true">
+        <name>-40% на "iPhone 16 512Gb Pink Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 512Gb Pink Sim. Акция действует до 10.02. Успевай!</description>
+        <price>94999</price>
+        <oldprice>158332</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-512Gb-Pink-Sim-bb294201.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18191" available="true">
+        <name>-40% на "iPhone 16 512Gb Ultramarine Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 512Gb Ultramarine Sim. Акция действует до 10.02. Успевай!</description>
+        <price>94299</price>
+        <oldprice>157165</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-512Gb-Blue-Sim-b201eb9e.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18190" available="true">
+        <name>-40% на "iPhone 16 512Gb Black Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 512Gb Black Sim. Акция действует до 10.02. Успевай!</description>
+        <price>89999</price>
+        <oldprice>149999</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-512Gb-Black-Sim-b201eb9d.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18194" available="true">
+        <name>-40% на "iPhone 16 512Gb White Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 512Gb White Sim. Акция действует до 10.02. Успевай!</description>
+        <price>94299</price>
+        <oldprice>157165</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-512Gb-Yellow-Sim-c283b86a.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18178" available="true">
+        <name>-40% на "iPhone 16 512Gb Pink Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 512Gb Pink Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>94999</price>
+        <oldprice>158332</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-512Gb-Pink-Dual-Sim-672318f0.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18206" available="true">
+        <name>-40% на "iPhone 16 512Gb Ultramarine eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 512Gb Ultramarine eSim. Акция действует до 10.02. Успевай!</description>
+        <price>94299</price>
+        <oldprice>157165</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-512Gb-Blue-eSim-054334c4.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18177" available="true">
+        <name>-40% на "iPhone 16 512Gb Teal Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 512Gb Teal Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>92199</price>
+        <oldprice>153665</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-512Gb-Green-Dual-Sim-5aeb6772.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18176" available="true">
+        <name>-40% на "iPhone 16 512Gb Ultramarine Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 512Gb Ultramarine Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>94299</price>
+        <oldprice>157165</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-512Gb-Blue-Dual-Sim-5aeb6771.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18192" available="true">
+        <name>-40% на "iPhone 16 512Gb Teal Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 512Gb Teal Sim. Акция действует до 10.02. Успевай!</description>
+        <price>92199</price>
+        <oldprice>153665</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-512Gb-Green-Sim-bb2941fe.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18208" available="true">
+        <name>-40% на "iPhone 16 512Gb Pink eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 512Gb Pink eSim. Акция действует до 10.02. Успевай!</description>
+        <price>94999</price>
+        <oldprice>158332</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-512Gb-Pink-eSim-0f37b16d.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18202" available="true">
+        <name>-40% на "iPhone 16 256Gb Teal eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 256Gb Teal eSim. Акция действует до 10.02. Успевай!</description>
+        <price>65499</price>
+        <oldprice>109165</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-256Gb-Green-eSim-f1ac26f1.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18172" available="true">
+        <name>-40% на "iPhone 16 256Gb Teal Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 256Gb Teal Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>68399</price>
+        <oldprice>113999</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-256Gb-Green-Dual-Sim-3d591672.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18173" available="true">
+        <name>-40% на "iPhone 16 256Gb Pink Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 256Gb Pink Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>65499</price>
+        <oldprice>109165</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-256Gb-Pink-Dual-Sim-44c23cb3.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18174" available="true">
+        <name>-40% на "iPhone 16 256Gb White Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 256Gb White Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>66199</price>
+        <oldprice>110332</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-256Gb-Yellow-Dual-Sim-4c8acda5.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18187" available="true">
+        <name>-40% на "iPhone 16 256Gb Teal Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 256Gb Teal Sim. Акция действует до 10.02. Успевай!</description>
+        <price>66199</price>
+        <oldprice>110332</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-256Gb-Green-Sim-a34c944c.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18201" available="true">
+        <name>-40% на "iPhone 16 256Gb Ultramarine eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 256Gb Ultramarine eSim. Акция действует до 10.02. Успевай!</description>
+        <price>63399</price>
+        <oldprice>105665</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-256Gb-Blue-eSim-e8778cfe.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18203" available="true">
+        <name>-40% на "iPhone 16 256Gb Pink eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 256Gb Pink eSim. Акция действует до 10.02. Успевай!</description>
+        <price>64799</price>
+        <oldprice>107999</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-256Gb-Pink-eSim-f1ac26f4.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18171" available="true">
+        <name>-40% на "iPhone 16 256Gb Ultramarine Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 256Gb Ultramarine Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>66999</price>
+        <oldprice>111665</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-256Gb-Blue-Dual-Sim-35749419.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18204" available="true">
+        <name>-40% на "iPhone 16 256Gb White eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 256Gb White eSim. Акция действует до 10.02. Успевай!</description>
+        <price>66199</price>
+        <oldprice>110332</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-256Gb-Yellow-eSim-faccbb03.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18200" available="true">
+        <name>-40% на "iPhone 16 256Gb Black eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 256Gb Black eSim. Акция действует до 10.02. Успевай!</description>
+        <price>64099</price>
+        <oldprice>106832</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-256Gb-Black-eSim-e8778cfd.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18189" available="true">
+        <name>-40% на "iPhone 16 256Gb White Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 256Gb White Sim. Акция действует до 10.02. Успевай!</description>
+        <price>66599</price>
+        <oldprice>110999</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-256Gb-Yellow-Sim-aa1aa22e.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18170" available="true">
+        <name>-40% на "iPhone 16 256Gb Black Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 256Gb Black Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>65499</price>
+        <oldprice>109165</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-256Gb-Black-Dual-Sim-2eb84c95.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18188" available="true">
+        <name>-40% на "iPhone 16 256Gb Pink Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 256Gb Pink Sim. Акция действует до 10.02. Успевай!</description>
+        <price>65499</price>
+        <oldprice>109165</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-256Gb-Pink-Sim-a34c944d.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18169" available="true">
+        <name>-40% на "iPhone 16 128Gb White Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 128Gb White Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>57999</price>
+        <oldprice>96665</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-128Gb-Yellow-Dual-Sim-eca4796b.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18167" available="true">
+        <name>-40% на "iPhone 16 128Gb Teal Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 128Gb Teal Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>57599</price>
+        <oldprice>95999</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-128Gb-Green-Dual-Sim-da551d90.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18197" available="true">
+        <name>-40% на "iPhone 16 128Gb Teal eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 128Gb Teal eSim. Акция действует до 10.02. Успевай!</description>
+        <price>54699</price>
+        <oldprice>91165</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-128Gb-Green-eSim-d4b2a509.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18199" available="true">
+        <name>-40% на "iPhone 16 128Gb White eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 128Gb White eSim. Акция действует до 10.02. Успевай!</description>
+        <price>54699</price>
+        <oldprice>91165</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-128Gb-Yellow-eSim-deee6124.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18166" available="true">
+        <name>-40% на "iPhone 16 128Gb Ultramarine Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 128Gb Ultramarine Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>57599</price>
+        <oldprice>95999</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-128Gb-Blue-Dual-Sim-d2dc2e1c.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18186" available="true">
+        <name>-40% на "iPhone 16 256Gb Ultramarine Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 256Gb Ultramarine Sim. Акция действует до 10.02. Успевай!</description>
+        <price>66999</price>
+        <oldprice>111665</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-256Gb-Blue-Sim-996a0353.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18168" available="true">
+        <name>-40% на "iPhone 16 128Gb Pink Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 128Gb Pink Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>57599</price>
+        <oldprice>95999</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-128Gb-Pink-Dual-Sim-e2561932.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18198" available="true">
+        <name>-40% на "iPhone 16 128Gb Pink eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 128Gb Pink eSim. Акция действует до 10.02. Успевай!</description>
+        <price>54699</price>
+        <oldprice>91165</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-128Gb-Pink-eSim-deee6123.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18196" available="true">
+        <name>-40% на "iPhone 16 128Gb Ultramarine eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 128Gb Ultramarine eSim. Акция действует до 10.02. Успевай!</description>
+        <price>54699</price>
+        <oldprice>91165</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-128Gb-Blue-eSim-d4b2a508.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18182" available="true">
+        <name>-40% на "iPhone 16 128Gb Teal Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 128Gb Teal Sim. Акция действует до 10.02. Успевай!</description>
+        <price>56899</price>
+        <oldprice>94832</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-128Gb-Green-Sim-8a30a986.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18184" available="true">
+        <name>-40% на "iPhone 16 128Gb White Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 128Gb White Sim. Акция действует до 10.02. Успевай!</description>
+        <price>57999</price>
+        <oldprice>96665</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-128Gb-Yellow-Sim-91e3c26a.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18181" available="true">
+        <name>-40% на "iPhone 16 128Gb Ultramarine Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 128Gb Ultramarine Sim. Акция действует до 10.02. Успевай!</description>
+        <price>56899</price>
+        <oldprice>94832</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-128Gb-Blue-Sim-80811851.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18183" available="true">
+        <name>-40% на "iPhone 16 128Gb Pink Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 128Gb Pink Sim. Акция действует до 10.02. Успевай!</description>
+        <price>56899</price>
+        <oldprice>94832</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-128Gb-Pink-Sim-8a30a987.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18185" available="true">
+        <name>-40% на "iPhone 16 256Gb Black Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 256Gb Black Sim. Акция действует до 10.02. Успевай!</description>
+        <price>66599</price>
+        <oldprice>110999</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-256Gb-Black-Sim-996a0352.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18165" available="true">
+        <name>-40% на "iPhone 16 128Gb Black Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 128Gb Black Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>56199</price>
+        <oldprice>93665</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-128Gb-Black-Dual-Sim-c7c1cdd5.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18195" available="true">
+        <name>-40% на "iPhone 16 128Gb Black eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 128Gb Black eSim. Акция действует до 10.02. Успевай!</description>
+        <price>54699</price>
+        <oldprice>91165</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-128Gb-Black-eSim-cd1ee32a.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18180" available="true">
+        <name>-40% на "iPhone 16 128Gb Black Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 128Gb Black Sim. Акция действует до 10.02. Успевай!</description>
+        <price>56199</price>
+        <oldprice>93665</oldprice>
+        <categoryId>1405</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16/Apple-iPhone-16-128Gb-Black-Sim-80811850.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1405</collectionId>
+      </offer>
+      <offer id="18111" available="true">
+        <name>-40% на "iPhone 16 Pro 1TB Black Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 1TB Black Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>110199</price>
+        <oldprice>183665</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-1TB-Black-Titanium-eSim-173290eb.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18217" available="true">
+        <name>-40% на "iPhone 16 Pro 1TB White Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 1TB White Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>118099</price>
+        <oldprice>196832</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-1TB-White-Titanium-Dual-Sim-a131a6c7.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18233" available="true">
+        <name>-40% на "iPhone 16 Pro 1TB White Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 1TB White Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>114499</price>
+        <oldprice>190832</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-1TB-White-Titanium-Sim-dbf30928.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18215" available="true">
+        <name>-40% на "iPhone 16 Pro 1TB Desert Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 1TB Desert Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>120999</price>
+        <oldprice>201665</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-1TB-Blue-Titanium-Dual-Sim-92600837.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18112" available="true">
+        <name>-40% на "iPhone 16 Pro 1TB Desert Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 1TB Desert Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>109399</price>
+        <oldprice>182332</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-1TB-Blue-Titanium-eSim-2180c88e.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18232" available="true">
+        <name>-40% на "iPhone 16 Pro 1TB Natural Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 1TB Natural Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>114499</price>
+        <oldprice>190832</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-1TB-Natural-Titanium-Sim-d20e355a.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18114" available="true">
+        <name>-40% на "iPhone 16 Pro 1TB White Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 1TB White Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>109399</price>
+        <oldprice>182332</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-1TB-White-Titanium-eSim-27b370f0.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18113" available="true">
+        <name>-40% на "iPhone 16 Pro 1TB Natural Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 1TB Natural Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>115199</price>
+        <oldprice>191999</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-1TB-Natural-Titanium-eSim-27b370ef.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18225" available="true">
+        <name>-40% на "iPhone 16 Pro 512Gb White Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 512Gb White Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>102199</price>
+        <oldprice>170332</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-512Gb-White-Titanium-Dual-Sim-793173a1.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18122" available="true">
+        <name>-40% на "iPhone 16 Pro 512Gb White Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 512Gb White Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>93599</price>
+        <oldprice>155999</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-512Gb-White-Titanium-eSim-55b61703.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18121" available="true">
+        <name>-40% на "iPhone 16 Pro 512Gb Natural Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 512Gb Natural Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>92899</price>
+        <oldprice>154832</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-512Gb-Natural-Titanium-eSim-4b4a5f22.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18230" available="true">
+        <name>-40% на "iPhone 16 Pro 1TB Black Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 1TB Black Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>114499</price>
+        <oldprice>190832</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-1TB-Black-Titanium-Sim-cbe3bb2d.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18214" available="true">
+        <name>-40% на "iPhone 16 Pro 1TB Black Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 1TB Black Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>116599</price>
+        <oldprice>194332</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-1TB-Black-Titanium-Dual-Sim-8b69a396.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18231" available="true">
+        <name>-40% на "iPhone 16 Pro 1TB Desert Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 1TB Desert Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>114499</price>
+        <oldprice>190832</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-1TB-Blue-Titanium-Sim-d20e3557.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18224" available="true">
+        <name>-40% на "iPhone 16 Pro 512Gb Natural Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 512Gb Natural Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>102199</price>
+        <oldprice>170332</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-512Gb-Natural-Titanium-Dual-Sim-793173a0.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18216" available="true">
+        <name>-40% на "iPhone 16 Pro 1TB Natural Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 1TB Natural Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>116599</price>
+        <oldprice>194332</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-1TB-Natural-Titanium-Dual-Sim-98619758.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18223" available="true">
+        <name>-40% на "iPhone 16 Pro 512Gb Desert Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 512Gb Desert Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>101499</price>
+        <oldprice>169165</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-512Gb-Blue-Titanium-Dual-Sim-344a400e.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18120" available="true">
+        <name>-40% на "iPhone 16 Pro 512Gb Desert Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 512Gb Desert Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>94299</price>
+        <oldprice>157165</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-512Gb-Blue-Titanium-eSim-4b4a5f21.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18239" available="true">
+        <name>-40% на "iPhone 16 Pro 512Gb Desert Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 512Gb Desert Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>99399</price>
+        <oldprice>165665</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-512Gb-Blue-Titanium-Sim-f5d56ece.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18222" available="true">
+        <name>-40% на "iPhone 16 Pro 512Gb Black Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 512Gb Black Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>102999</price>
+        <oldprice>171665</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-512Gb-Black-Titanium-Dual-Sim-21e86ddc.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18238" available="true">
+        <name>-40% на "iPhone 16 Pro 512Gb Black Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 512Gb Black Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>100099</price>
+        <oldprice>166832</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-512Gb-Black-Titanium-Sim-ef15ef09.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18105" available="true">
+        <name>-40% на "iPhone 16 Pro 512Gb Natural Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 512Gb Natural Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>96499</price>
+        <oldprice>160832</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-512Gb-Natural-Titanium-Sim-fc90092c.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18106" available="true">
+        <name>-40% на "iPhone 16 Pro 512Gb White Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 512Gb White Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>97199</price>
+        <oldprice>161999</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-512Gb-White-Titanium-Sim-fc90092e.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18119" available="true">
+        <name>-40% на "iPhone 16 Pro 512Gb Black Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 512Gb Black Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>93999</price>
+        <oldprice>156665</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-512Gb-Black-Titanium-eSim-41e0f1a9.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18213" available="true">
+        <name>-40% на "iPhone 16 Pro 128Gb White Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 128Gb White Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>79899</price>
+        <oldprice>133165</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-128Gb-White-Titanium-Dual-Sim-846ef847.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18212" available="true">
+        <name>-40% на "iPhone 16 Pro 128Gb Natural Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 128Gb Natural Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>79899</price>
+        <oldprice>133165</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-128Gb-Natural-Titanium-Dual-Sim-7dd71104.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18211" available="true">
+        <name>-40% на "iPhone 16 Pro 128Gb Desert Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 128Gb Desert Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>79899</price>
+        <oldprice>133165</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-128Gb-Blue-Titanium-Dual-Sim-767cb003.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18227" available="true">
+        <name>-40% на "iPhone 16 Pro 128Gb Desert Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 128Gb Desert Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>78499</price>
+        <oldprice>130832</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-128Gb-Blue-Titanium-Sim-b9f39524.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18228" available="true">
+        <name>-40% на "iPhone 16 Pro 128Gb Natural Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 128Gb Natural Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>77799</price>
+        <oldprice>129665</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-128Gb-Natural-Titanium-Sim-c2d8fc88.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18229" available="true">
+        <name>-40% на "iPhone 16 Pro 128Gb White Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 128Gb White Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>77799</price>
+        <oldprice>129665</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-128Gb-White-Titanium-Sim-c2d8fc89.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18109" available="true">
+        <name>-40% на "iPhone 16 Pro 128Gb Natural Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 128Gb Natural Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>73399</price>
+        <oldprice>122332</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-128Gb-Natural-Titanium-eSim-0e174fad.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18108" available="true">
+        <name>-40% на "iPhone 16 Pro 128Gb Desert Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 128Gb Desert Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>78499</price>
+        <oldprice>130832</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-128Gb-Blue-Titanium-eSim-0e174fac.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18210" available="true">
+        <name>-40% на "iPhone 16 Pro 128Gb Black Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 128Gb Black Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>79899</price>
+        <oldprice>133165</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-128Gb-Black-Titanium-Dual-Sim-6f8e071b.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18110" available="true">
+        <name>-40% на "iPhone 16 Pro 128Gb White Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 128Gb White Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>73399</price>
+        <oldprice>122332</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-128Gb-White-Titanium-eSim-173290e5.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18226" available="true">
+        <name>-40% на "iPhone 16 Pro 128Gb Black Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 128Gb Black Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>79199</price>
+        <oldprice>131999</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-128Gb-Black-Titanium-Sim-b9f39523.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18107" available="true">
+        <name>-40% на "iPhone 16 Pro 128Gb Black Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 128Gb Black Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>78499</price>
+        <oldprice>130832</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-128Gb-Black-Titanium-eSim-053c73ba.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18118" available="true">
+        <name>-40% на "iPhone 16 Pro 256Gb White Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 256Gb White Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>81399</price>
+        <oldprice>135665</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-256Gb-White-Titanium-eSim-3bbb34e6.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18221" available="true">
+        <name>-40% на "iPhone 16 Pro 256Gb White Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 256Gb White Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>87099</price>
+        <oldprice>145165</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-256Gb-White-Titanium-Dual-Sim-18d2383e.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18237" available="true">
+        <name>-40% на "iPhone 16 Pro 256Gb White Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 256Gb White Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>84999</price>
+        <oldprice>141665</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-256Gb-White-Titanium-Sim-ef15ef07.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18219" available="true">
+        <name>-40% на "iPhone 16 Pro 256Gb Desert Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 256Gb Desert Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>87099</price>
+        <oldprice>145165</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-256Gb-Blue-Titanium-Dual-Sim-0d9db30a.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18117" available="true">
+        <name>-40% на "iPhone 16 Pro 256Gb Natural Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 256Gb Natural Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>81399</price>
+        <oldprice>135665</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-256Gb-Natural-Titanium-eSim-3bbb34e5.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18220" available="true">
+        <name>-40% на "iPhone 16 Pro 256Gb Natural Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 256Gb Natural Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>89999</price>
+        <oldprice>149999</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-256Gb-Natural-Titanium-Dual-Sim-18d2383d.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18116" available="true">
+        <name>-40% на "iPhone 16 Pro 256Gb Desert Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 256Gb Desert Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>81399</price>
+        <oldprice>135665</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-256Gb-Blue-Titanium-eSim-317400ed.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18236" available="true">
+        <name>-40% на "iPhone 16 Pro 256Gb Natural Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 256Gb Natural Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>84999</price>
+        <oldprice>141665</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-256Gb-Natural-Titanium-Sim-e646dd27.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18235" available="true">
+        <name>-40% на "iPhone 16 Pro 256Gb Desert Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 256Gb Desert Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>84999</price>
+        <oldprice>141665</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-256Gb-Blue-Titanium-Sim-e646dd25.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18218" available="true">
+        <name>-40% на "iPhone 16 Pro 256Gb Black Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 256Gb Black Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>87099</price>
+        <oldprice>145165</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-256Gb-Black-Titanium-Dual-Sim-ee4db68c.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18234" available="true">
+        <name>-40% на "iPhone 16 Pro 256Gb Black Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 256Gb Black Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>84999</price>
+        <oldprice>141665</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-256Gb-Black-Titanium-Sim-dbf30929.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18115" available="true">
+        <name>-40% на "iPhone 16 Pro 256Gb Black Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro 256Gb Black Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>81399</price>
+        <oldprice>135665</oldprice>
+        <categoryId>1406</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro/Apple-iPhone-16-Pro-256Gb-Black-Titanium-eSim-317400ec.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1406</collectionId>
+      </offer>
+      <offer id="18148" available="true">
+        <name>-40% на "iPhone 16 Pro Max 1TB Desert Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 1TB Desert Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>116599</price>
+        <oldprice>194332</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-1TB-Blue-Titanium-eSim-917fdb5f.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18123" available="true">
+        <name>-40% на "iPhone 16 Pro Max 1TB Black Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 1TB Black Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>143999</price>
+        <oldprice>239999</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-1TB-Black-Titanium-Dual-Sim-c086a01a.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18126" available="true">
+        <name>-40% на "iPhone 16 Pro Max 1TB White Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 1TB White Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>143999</price>
+        <oldprice>239999</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-1TB-White-Titanium-Dual-Sim-d540ba64.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18150" available="true">
+        <name>-40% на "iPhone 16 Pro Max 1TB White Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 1TB White Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>128899</price>
+        <oldprice>214832</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-1TB-White-Titanium-eSim-9b144fcc.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18124" available="true">
+        <name>-40% на "iPhone 16 Pro Max 1TB Desert Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 1TB Desert Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>143999</price>
+        <oldprice>239999</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-1TB-Blue-Titanium-Dual-Sim-c82b8e1f.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18125" available="true">
+        <name>-40% на "iPhone 16 Pro Max 1TB Natural Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 1TB Natural Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>143999</price>
+        <oldprice>239999</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-1TB-Natural-Titanium-Dual-Sim-c82b8e20.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18147" available="true">
+        <name>-40% на "iPhone 16 Pro Max 1TB Black Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 1TB Black Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>117399</price>
+        <oldprice>195665</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-1TB-Black-Titanium-eSim-8ac19020.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18149" available="true">
+        <name>-40% на "iPhone 16 Pro Max 1TB Natural Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 1TB Natural Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>116599</price>
+        <oldprice>194332</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-1TB-Natural-Titanium-eSim-917fdb60.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18135" available="true">
+        <name>-40% на "iPhone 16 Pro Max 1TB Black Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 1TB Black Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>123799</price>
+        <oldprice>206332</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-1TB-Black-Titanium-Sim-3f68dfde.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18138" available="true">
+        <name>-40% на "iPhone 16 Pro Max 1TB White Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 1TB White Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>122399</price>
+        <oldprice>203999</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-1TB-White-Titanium-Sim-4812edd7.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18137" available="true">
+        <name>-40% на "iPhone 16 Pro Max 1TB Natural Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 1TB Natural Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>122399</price>
+        <oldprice>203999</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-1TB-Natural-Titanium-Sim-4812edd6.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18136" available="true">
+        <name>-40% на "iPhone 16 Pro Max 1TB Desert Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 1TB Desert Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>121699</price>
+        <oldprice>202832</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-1TB-Blue-Titanium-Sim-3f68dfe0.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18158" available="true">
+        <name>-40% на "iPhone 16 Pro Max 512Gb White Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 512Gb White Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>111599</price>
+        <oldprice>185999</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-512Gb-White-Titanium-eSim-bbb5b26e.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18134" available="true">
+        <name>-40% на "iPhone 16 Pro Max 512Gb White Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 512Gb White Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>112999</price>
+        <oldprice>188332</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-512Gb-White-Titanium-Dual-Sim-1fc8564c.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18157" available="true">
+        <name>-40% на "iPhone 16 Pro Max 512Gb Natural Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 512Gb Natural Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>111599</price>
+        <oldprice>185999</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-512Gb-Natural-Titanium-eSim-bbb5b26c.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18133" available="true">
+        <name>-40% на "iPhone 16 Pro Max 512Gb Natural Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 512Gb Natural Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>112999</price>
+        <oldprice>188332</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-512Gb-Natural-Titanium-Dual-Sim-16b40677.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18155" available="true">
+        <name>-40% на "iPhone 16 Pro Max 512Gb Black Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 512Gb Black Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>100799</price>
+        <oldprice>167999</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-512Gb-Black-Titanium-eSim-b2e88d42.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18146" available="true">
+        <name>-40% на "iPhone 16 Pro Max 512Gb White Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 512Gb White Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>105099</price>
+        <oldprice>175165</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-512Gb-White-Titanium-Sim-716e50b8.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18131" available="true">
+        <name>-40% на "iPhone 16 Pro Max 512Gb Black Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 512Gb Black Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>112299</price>
+        <oldprice>187165</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-512Gb-Black-Titanium-Dual-Sim-fd0329ce.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18156" available="true">
+        <name>-40% на "iPhone 16 Pro Max 512Gb Desert Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 512Gb Desert Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>104399</price>
+        <oldprice>173999</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-512Gb-Blue-Titanium-eSim-b2e88d43.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18145" available="true">
+        <name>-40% на "iPhone 16 Pro Max 512Gb Natural Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 512Gb Natural Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>109399</price>
+        <oldprice>182332</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-512Gb-Natural-Titanium-Sim-716e50b7.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18132" available="true">
+        <name>-40% на "iPhone 16 Pro Max 512Gb Desert Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 512Gb Desert Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>116599</price>
+        <oldprice>194332</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-512Gb-Blue-Titanium-Dual-Sim-10ad6b3c.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18143" available="true">
+        <name>-40% на "iPhone 16 Pro Max 512Gb Black Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 512Gb Black Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>105799</price>
+        <oldprice>176332</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-512Gb-Black-Titanium-Sim-67c11b57.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18144" available="true">
+        <name>-40% на "iPhone 16 Pro Max 512Gb Desert Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 512Gb Desert Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>107999</price>
+        <oldprice>179999</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-512Gb-Blue-Titanium-Sim-67c11b58.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18154" available="true">
+        <name>-40% на "iPhone 16 Pro Max 256Gb White Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 256Gb White Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>88199</price>
+        <oldprice>146999</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-256Gb-White-Titanium-eSim-ab8d0179.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18130" available="true">
+        <name>-40% на "iPhone 16 Pro Max 256Gb White Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 256Gb White Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>94999</price>
+        <oldprice>158332</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-256Gb-White-Titanium-Dual-Sim-f3324810.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18153" available="true">
+        <name>-40% на "iPhone 16 Pro Max 256Gb Natural Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 256Gb Natural Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>88199</price>
+        <oldprice>146999</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-256Gb-Natural-Titanium-eSim-a41b12d9.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18129" available="true">
+        <name>-40% на "iPhone 16 Pro Max 256Gb Natural Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 256Gb Natural Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>94999</price>
+        <oldprice>158332</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-256Gb-Natural-Titanium-Dual-Sim-ec0a63c1.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18128" available="true">
+        <name>-40% на "iPhone 16 Pro Max 256Gb Desert Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 256Gb Desert Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>94999</price>
+        <oldprice>158332</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-256Gb-Blue-Titanium-Dual-Sim-e4b6a5aa.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18152" available="true">
+        <name>-40% на "iPhone 16 Pro Max 256Gb Desert Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 256Gb Desert Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>93599</price>
+        <oldprice>155999</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-256Gb-Blue-Titanium-eSim-a41b12d5.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18142" available="true">
+        <name>-40% на "iPhone 16 Pro Max 256Gb White Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 256Gb White Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>92199</price>
+        <oldprice>153665</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-256Gb-White-Titanium-Sim-5f6aae76.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18151" available="true">
+        <name>-40% на "iPhone 16 Pro Max 256Gb Black Titanium eSim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 256Gb Black Titanium eSim. Акция действует до 10.02. Успевай!</description>
+        <price>93599</price>
+        <oldprice>155999</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-256Gb-Black-Titanium-eSim-9b144fcd.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18127" available="true">
+        <name>-40% на "iPhone 16 Pro Max 256Gb Black Titanium Dual-Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 256Gb Black Titanium Dual-Sim. Акция действует до 10.02. Успевай!</description>
+        <price>94999</price>
+        <oldprice>158332</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-256Gb-Black-Titanium-Dual-Sim-dbc795a2.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18141" available="true">
+        <name>-40% на "iPhone 16 Pro Max 256Gb Natural Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 256Gb Natural Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>92199</price>
+        <oldprice>153665</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-256Gb-Natural-Titanium-Sim-592a8893.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18140" available="true">
+        <name>-40% на "iPhone 16 Pro Max 256Gb Desert Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 256Gb Desert Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>92199</price>
+        <oldprice>153665</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-256Gb-Blue-Titanium-Sim-592a8891.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+      <offer id="18139" available="true">
+        <name>-40% на "iPhone 16 Pro Max 256Gb Black Titanium Sim" до 10.02!</name>
+        <description>Скидка -40% на Apple iPhone 16 Pro Max 256Gb Black Titanium Sim. Акция действует до 10.02. Успевай!</description>
+        <price>92899</price>
+        <oldprice>154832</oldprice>
+        <categoryId>1407</categoryId>
+        <url>https://istudio-msk.ru/catalog/iphone/iphone-16-pro-max/Apple-iPhone-16-Pro-Max-256Gb-Black-Titanium-Sim-5092a4e8.html</url>
+        <currencyId>RUB</currencyId>
+        <collectionId>1407</collectionId>
+      </offer>
+    </offers>
+    <collections>
+      <collection id="1405">
+        <url>https://istudio-msk.ru/catalog/iPhone/iPhone-16/</url>
+        <picture>https://toneo.ru/istudio/banner/2502-5/iPhone-16.png</picture>
+        <name>iPhone 16 Скидка -40% до 10.02!</name>
+        <description>-40% на iPhone 16. Акция до 10.02. Спешите заказать iPhone 16 с выгодой 40%!</description>
+      </collection>
+      <collection id="1406">
+        <url>https://istudio-msk.ru/catalog/iPhone/iPhone-16-Pro/</url>
+        <picture>https://toneo.ru/istudio/banner/2502-5/iPhone-16-Pro.png</picture>
+        <name>iPhone 16 Pro Скидка -40% до 10.02!</name>
+        <description>-40% на iPhone 16 Pro. Акция до 10.02. Спешите заказать iPhone 16 Pro с выгодой 40%!</description>
+      </collection>
+      <collection id="1407">
+        <url>https://istudio-msk.ru/catalog/iPhone/iPhone-16-Pro-Max/</url>
+        <picture>https://toneo.ru/istudio/banner/2502-5/iPhone-16-Pro-Max.png</picture>
+        <name>iPhone 16 Pro Max Скидка -40% до 10.02!</name>
+        <description>-40% на iPhone 16 Pro Max. Акция до 10.02. Спешите заказать iPhone 16 Pro Max с выгодой 40%!</description>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
